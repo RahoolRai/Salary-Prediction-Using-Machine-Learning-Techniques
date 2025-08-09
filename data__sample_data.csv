@@ -1,0 +1,501 @@
+Experience,Age,Education,Skill_Level,Salary
+1.4,28,Bachelors,Beginner,26105.575336699327
+9.0,43,Masters,Advanced,63309.65736504461
+4.0,33,Masters,Beginner,18766.725504957027
+2.7,24,Bachelors,Advanced,29710.890064527837
+0.5,21,Masters,Advanced,38284.972732805545
+0.5,27,Masters,Advanced,33485.65968850559
+0.2,18,Masters,Beginner,14203.488838525445
+6.0,40,Masters,Intermediate,40676.125393858914
+2.8,33,Bachelors,Intermediate,32403.100132522766
+3.7,26,Bachelors,Intermediate,31333.667841006896
+0.1,16,Bachelors,Beginner,14325.339504151529
+10.5,42,Masters,Advanced,66265.87794092656
+5.4,29,High School,Intermediate,27381.20925478089
+0.7,31,Masters,Intermediate,23707.94907750749
+0.6,17,Masters,Intermediate,32796.87844734721
+0.6,22,High School,Intermediate,17828.3976539433
+1.1,26,Masters,Intermediate,34165.792604127484
+2.2,27,High School,Intermediate,30826.580259612256
+1.7,24,Bachelors,Advanced,35241.5544907398
+1.0,29,Masters,Intermediate,26401.898436409756
+2.8,22,High School,Expert,37118.65045168305
+0.5,24,Masters,Advanced,32579.021968045417
+1.0,26,Masters,Intermediate,23321.49069634936
+1.4,28,Bachelors,Advanced,32121.796408608014
+1.8,30,High School,Beginner,12536.801044200987
+4.6,23,Bachelors,Advanced,43188.396942307816
+0.7,18,Bachelors,Intermediate,18676.913513508036
+2.2,33,PhD,Advanced,46568.29827936419
+2.7,29,Bachelors,Advanced,35416.43935773071
+0.1,21,Bachelors,Advanced,24205.475131479612
+2.8,35,Bachelors,Advanced,38683.46900737637
+0.6,26,Bachelors,Intermediate,20025.481716887378
+0.2,31,Masters,Beginner,26052.48648728622
+8.9,34,High School,Intermediate,29810.101598766258
+10.1,45,Masters,Beginner,44023.89789773206
+5.0,38,Bachelors,Intermediate,43294.644995291426
+1.1,24,PhD,Intermediate,26048.34337697213
+0.3,30,Bachelors,Expert,30511.27514737574
+3.5,31,Bachelors,Intermediate,31769.539248294575
+1.7,33,Masters,Advanced,39897.90890969799
+0.4,20,High School,Beginner,16729.150496367794
+2.1,30,Masters,Advanced,41745.93565073832
+0.1,30,Bachelors,Advanced,30923.60734280885
+7.2,23,High School,Intermediate,37048.49920978112
+0.9,19,Bachelors,Intermediate,23649.093284642564
+3.3,18,Masters,Advanced,38093.71172690729
+1.1,24,High School,Beginner,19922.868506013656
+2.2,30,Bachelors,Intermediate,35899.409674476075
+2.4,34,Bachelors,Intermediate,26936.83126808713
+0.6,25,Bachelors,Beginner,12887.353476646793
+10.5,43,High School,Intermediate,46575.40334643486
+4.5,22,Masters,Beginner,27622.09418023201
+8.4,24,PhD,Beginner,29744.65226992982
+6.8,31,PhD,Beginner,42901.10838575211
+2.7,29,Masters,Expert,46283.359070230385
+7.6,32,High School,Intermediate,33387.333588479196
+0.3,14,Masters,Expert,36579.901652845074
+0.7,25,High School,Intermediate,21112.49839889533
+0.1,18,High School,Intermediate,21367.259085695197
+1.2,29,Bachelors,Intermediate,22022.568147150785
+1.5,28,Bachelors,Intermediate,27165.52899088041
+0.9,21,Masters,Beginner,19822.266612080413
+5.3,27,Bachelors,Intermediate,35694.05240443751
+1.3,21,Bachelors,Intermediate,25876.83742006527
+1.0,25,Bachelors,Intermediate,18322.806489777024
+2.3,32,PhD,Intermediate,41879.91058087516
+0.5,20,Bachelors,Beginner,14120.182774429759
+4.9,32,Bachelors,Beginner,29800.288991405727
+0.2,22,High School,Advanced,25236.4365670067
+13.0,34,Masters,Intermediate,67750.91838397562
+4.4,28,Bachelors,Beginner,23202.670088140738
+0.7,20,Bachelors,Expert,30353.41601940901
+0.0,22,High School,Beginner,14590.901970561337
+5.1,24,Bachelors,Intermediate,29484.101085828624
+3.7,38,Bachelors,Expert,50499.70950971025
+3.9,29,Bachelors,Intermediate,21518.44695781706
+4.4,25,PhD,Beginner,26915.587904268228
+0.2,26,High School,Beginner,10212.985392104034
+1.3,25,Bachelors,Intermediate,28351.537959867877
+0.4,24,Masters,Beginner,29289.066862909625
+6.0,34,Bachelors,Intermediate,34277.75390731264
+2.9,31,Bachelors,Beginner,21555.891384049948
+1.2,23,Bachelors,Intermediate,23350.260815565907
+0.2,22,Bachelors,Expert,37009.39151304095
+1.1,24,PhD,Advanced,34175.73432904714
+1.2,14,Bachelors,Intermediate,22391.844913673925
+3.9,21,Masters,Intermediate,38475.98814891215
+3.0,34,Bachelors,Intermediate,31305.470849699224
+6.5,39,Bachelors,Intermediate,37747.908082993716
+1.9,25,High School,Intermediate,27325.230462835705
+0.4,28,Bachelors,Beginner,4403.838535003813
+3.7,30,Bachelors,Advanced,40139.37659765454
+4.3,44,Masters,Intermediate,36809.62158436288
+2.5,33,Bachelors,Beginner,12926.835515717716
+4.4,28,PhD,Intermediate,43596.0129976249
+2.0,22,High School,Intermediate,28828.29272581479
+2.2,19,Masters,Advanced,35612.75742686154
+1.7,27,Masters,Advanced,41964.372736014695
+0.1,21,Masters,Advanced,38661.391289943225
+0.3,18,Masters,Beginner,25966.572267920237
+0.1,21,Masters,Intermediate,32679.822646856963
+3.0,22,Bachelors,Intermediate,30110.63745535946
+1.1,34,High School,Beginner,18377.168194507965
+2.1,31,High School,Intermediate,15750.170940514157
+7.1,32,Masters,Advanced,53669.687559350255
+0.9,33,Bachelors,Beginner,15303.767023419041
+1.6,26,Masters,Intermediate,40134.71358748907
+4.2,24,Bachelors,Intermediate,28320.570937838318
+0.8,33,High School,Beginner,18040.02403392243
+0.2,27,High School,Intermediate,22377.426880202336
+1.0,20,Bachelors,Expert,33218.01223186227
+0.5,24,Bachelors,Advanced,35725.25520215376
+8.0,28,Bachelors,Expert,53286.75319132774
+5.0,23,Bachelors,Intermediate,31573.037276186213
+3.0,32,High School,Beginner,16735.64707150976
+6.2,40,Bachelors,Intermediate,29799.88744389647
+4.9,22,Bachelors,Intermediate,27141.15454547357
+0.6,28,Masters,Advanced,34014.81601475794
+6.7,28,Bachelors,Beginner,25853.4888774137
+2.3,24,Bachelors,Intermediate,21937.89510063072
+4.9,26,High School,Beginner,15288.412681640832
+6.8,27,High School,Intermediate,31084.472136856526
+1.1,26,Bachelors,Advanced,21726.398129844987
+0.3,21,Bachelors,Intermediate,24600.279818448013
+0.8,27,Bachelors,Intermediate,23412.198764672517
+1.7,26,Bachelors,Intermediate,17312.242502675348
+5.1,28,Bachelors,Intermediate,30253.954614750684
+5.9,26,Masters,Advanced,45739.21797204708
+0.0,22,Masters,Advanced,32195.8725520959
+2.1,30,High School,Expert,42072.25223011572
+1.6,29,Bachelors,Advanced,21874.137651771278
+0.8,20,High School,Intermediate,20015.130395737087
+0.4,25,Bachelors,Intermediate,20999.336022166797
+1.2,29,PhD,Intermediate,36026.70038225233
+8.6,25,High School,Intermediate,35445.983141188444
+1.2,28,Bachelors,Advanced,26240.153341305904
+2.2,23,Bachelors,Beginner,18404.73032166691
+3.6,31,Masters,Advanced,40119.87071598256
+1.4,22,Bachelors,Intermediate,28580.03569299299
+10.7,26,High School,Intermediate,38446.55824335971
+9.8,26,Bachelors,Intermediate,50305.95342876504
+0.9,26,Bachelors,Advanced,28446.695930926897
+2.1,28,High School,Intermediate,19677.966165447688
+1.1,21,Bachelors,Intermediate,14831.428036935864
+1.0,29,High School,Beginner,8120.301618720274
+0.1,16,High School,Intermediate,9539.320284972551
+2.8,27,Bachelors,Beginner,22935.633255057415
+2.1,21,High School,Advanced,29993.62511614967
+0.2,21,Bachelors,Intermediate,12694.046489839333
+1.0,26,Bachelors,Intermediate,27675.19157038058
+7.2,27,Masters,Beginner,31952.694741582804
+0.8,23,Bachelors,Beginner,18493.96505992775
+0.5,30,High School,Advanced,33936.10314127712
+2.0,24,High School,Beginner,22340.19657932766
+12.7,41,Bachelors,Beginner,38337.34676047084
+0.8,20,Masters,Beginner,16280.038872923564
+3.3,30,High School,Expert,27850.922993353473
+4.3,36,Masters,Advanced,44104.2334037879
+0.8,13,High School,Intermediate,17124.34880586153
+3.9,24,Bachelors,Intermediate,23664.10236424408
+1.4,29,Masters,Intermediate,28863.715164538477
+3.0,26,Masters,Advanced,41184.25941479384
+3.0,29,Masters,Intermediate,32235.720090959607
+2.3,24,Masters,Beginner,21133.9870958827
+0.3,25,Bachelors,Beginner,18123.273359833638
+5.4,29,Masters,Beginner,33505.70324784704
+1.2,32,High School,Intermediate,16868.00461278577
+0.6,26,Masters,Advanced,40654.66189873135
+0.1,26,Bachelors,Intermediate,20907.059338578692
+2.7,25,Masters,Beginner,25438.24811472424
+3.4,25,Bachelors,Beginner,25781.072116282787
+0.1,22,Bachelors,Expert,32066.080656317507
+2.2,29,Bachelors,Intermediate,30965.683169566226
+0.8,23,Masters,Advanced,34735.62082600912
+3.1,29,High School,Intermediate,22137.81312679781
+0.6,35,High School,Intermediate,23587.51762603051
+3.5,32,Bachelors,Intermediate,23681.368963396693
+1.5,24,High School,Beginner,17678.798528882617
+8.3,39,Masters,Intermediate,48313.8500467777
+0.4,23,Bachelors,Advanced,25709.415713637303
+1.3,16,PhD,Intermediate,28787.31244280535
+0.4,20,Bachelors,Intermediate,11390.754772511804
+7.8,23,High School,Beginner,23320.375461295193
+6.3,29,Masters,Expert,62384.22450570558
+0.9,25,Bachelors,Advanced,29299.281959987
+3.2,36,Bachelors,Intermediate,24461.62429537021
+5.1,31,Bachelors,Expert,54928.539204323504
+2.4,26,Masters,Intermediate,26869.125758927497
+2.3,31,Bachelors,Intermediate,31647.286002633686
+0.8,14,PhD,Advanced,36560.97180935842
+0.3,26,PhD,Advanced,33556.36345078099
+6.8,35,Bachelors,Intermediate,45476.55446304756
+6.9,24,High School,Beginner,18943.815841217598
+3.0,33,Bachelors,Intermediate,33195.77086805001
+1.2,27,High School,Advanced,31777.91159021489
+1.3,24,High School,Intermediate,17706.898954616776
+3.9,32,Bachelors,Intermediate,37162.326500321644
+6.8,43,Bachelors,Intermediate,36949.76742700524
+6.5,32,Masters,Intermediate,43923.46814639928
+4.5,30,Masters,Intermediate,38501.6091938561
+3.1,25,Masters,Advanced,40128.456292647264
+0.3,21,Bachelors,Intermediate,24854.041365798912
+0.5,29,Bachelors,Beginner,22207.443602761065
+6.9,27,Bachelors,Beginner,19417.340133809095
+2.8,28,PhD,Advanced,52421.70121439076
+0.0,22,High School,Intermediate,10047.54005982163
+0.3,27,Masters,Intermediate,31562.731021708285
+3.3,29,Bachelors,Advanced,41133.525684137916
+0.0,30,Bachelors,Advanced,22045.167848924008
+0.5,22,Masters,Advanced,30045.928560227076
+2.4,26,Bachelors,Advanced,26971.47665757032
+3.5,23,Masters,Intermediate,32045.394848556323
+3.2,25,Masters,Advanced,39559.82857907129
+0.8,27,Bachelors,Intermediate,26898.3026613467
+3.7,32,Bachelors,Advanced,43801.543730598045
+0.8,21,Bachelors,Advanced,34228.41905394978
+1.2,30,Masters,Advanced,33789.15986710849
+4.1,35,Bachelors,Intermediate,30153.89063127736
+3.1,30,Bachelors,Beginner,14142.80903889525
+5.7,40,Bachelors,Intermediate,31370.649667519057
+3.2,24,Masters,Expert,53784.25816548729
+2.5,21,High School,Advanced,36427.91411774116
+0.3,16,Masters,Beginner,12836.25564060039
+1.4,33,Masters,Beginner,21421.678704235528
+0.9,29,High School,Beginner,16859.971215205365
+0.8,25,Bachelors,Advanced,29650.805794098032
+10.8,37,PhD,Advanced,71889.48240039179
+1.5,20,High School,Intermediate,22820.30522232045
+6.7,43,Masters,Intermediate,43230.80326464542
+3.0,28,Bachelors,Advanced,34427.7386456086
+4.8,30,Bachelors,Advanced,42231.4212400185
+2.1,30,Masters,Intermediate,31472.11134905469
+2.6,30,Bachelors,Intermediate,25018.070547367155
+2.0,28,Bachelors,Intermediate,25051.950980370846
+0.7,21,Bachelors,Intermediate,21158.185203973324
+3.8,31,Bachelors,Intermediate,27949.94485058936
+1.0,35,High School,Intermediate,21206.019686664487
+0.1,31,Bachelors,Advanced,35993.23585252358
+3.1,36,PhD,Intermediate,42494.59723970619
+0.6,23,Bachelors,Advanced,25772.5984098542
+8.5,28,Bachelors,Beginner,34364.772022553676
+9.2,33,Bachelors,Intermediate,39330.90255121995
+7.4,32,Masters,Beginner,41577.623187933204
+1.4,31,High School,Intermediate,24348.21096099047
+0.0,16,PhD,Advanced,31863.489279978854
+7.9,40,Bachelors,Expert,61938.58462905139
+1.7,25,Bachelors,Beginner,11665.619239657502
+10.2,33,High School,Intermediate,33066.16265545097
+9.9,29,High School,Advanced,40830.374968004726
+5.8,22,Bachelors,Intermediate,32714.715473818535
+1.0,30,Bachelors,Intermediate,32662.574997425458
+1.5,26,Masters,Advanced,47456.50073096316
+5.7,24,Bachelors,Intermediate,35390.25550720379
+1.1,19,Bachelors,Beginner,20104.222374722285
+0.6,23,Bachelors,Intermediate,12794.711329236305
+2.4,35,Masters,Advanced,38986.63100132989
+8.3,32,High School,Intermediate,31161.081240458807
+3.6,21,High School,Beginner,16623.76200874442
+2.5,26,High School,Advanced,28634.280907076052
+0.3,23,Masters,Beginner,17991.547111514363
+2.9,14,Bachelors,Advanced,20853.50094812106
+13.8,38,Bachelors,Intermediate,54939.55128058767
+0.5,24,Masters,Expert,33876.284871300966
+2.2,30,Masters,Intermediate,32876.23432055575
+6.3,40,Bachelors,Intermediate,46970.41334874987
+4.1,34,Masters,Beginner,25163.077042067882
+3.6,27,Bachelors,Intermediate,15948.562386268351
+3.6,23,High School,Advanced,29844.978890599446
+1.3,39,Bachelors,Expert,45104.79817499286
+1.0,26,High School,Intermediate,30671.737271102967
+5.0,30,Bachelors,Intermediate,25852.252027737915
+5.0,29,Masters,Advanced,50183.49611618261
+6.1,32,High School,Advanced,36598.447716099734
+7.3,31,High School,Intermediate,32590.25822847932
+2.1,24,Bachelors,Intermediate,38221.716735085174
+2.1,24,Masters,Intermediate,22485.148358024235
+4.8,29,Bachelors,Intermediate,32668.698307472867
+3.1,25,Bachelors,Beginner,24098.465858827167
+3.6,25,High School,Intermediate,30808.931624696736
+4.8,30,High School,Intermediate,28929.915767354476
+6.6,30,PhD,Advanced,60940.25269752051
+1.2,33,PhD,Beginner,25041.757162891045
+1.4,13,High School,Intermediate,20605.634706225537
+0.3,30,PhD,Intermediate,28794.03862251295
+2.6,33,Bachelors,Intermediate,30907.859449280255
+0.1,14,Masters,Beginner,16391.94831978183
+1.9,25,Bachelors,Intermediate,26685.501969510933
+2.3,25,Bachelors,Intermediate,25453.68593157511
+1.0,18,Bachelors,Intermediate,27230.251253860843
+2.7,23,Bachelors,Intermediate,25743.03138205757
+0.1,19,High School,Intermediate,9134.837658965593
+0.1,33,High School,Advanced,31959.607503569958
+5.2,34,Bachelors,Intermediate,28671.338495686905
+1.3,32,Masters,Advanced,34231.1683067559
+0.4,29,Bachelors,Intermediate,19621.69352978254
+2.2,21,Bachelors,Beginner,26552.190465854088
+4.4,26,PhD,Beginner,21721.628930106523
+0.7,28,High School,Intermediate,36388.742668299965
+2.9,21,Bachelors,Advanced,37780.284045330256
+0.3,28,Bachelors,Advanced,28866.1945706458
+0.2,23,Masters,Advanced,31225.52999691857
+2.3,25,High School,Intermediate,24467.770374288284
+2.3,30,Bachelors,Intermediate,29205.61214189669
+3.0,30,Masters,Beginner,30106.077929750285
+3.9,27,Masters,Intermediate,37818.022330017244
+11.2,41,Bachelors,Intermediate,47047.903406276244
+2.2,21,Bachelors,Beginner,18693.30789846337
+1.2,29,Bachelors,Intermediate,23443.63358173244
+4.8,32,Masters,Intermediate,37425.4585982366
+0.9,24,Bachelors,Advanced,33918.85048433532
+1.7,28,High School,Expert,36717.78361140431
+0.2,18,Masters,Advanced,15298.0568266786
+0.1,29,Bachelors,Intermediate,25279.503882648805
+9.9,33,Bachelors,Intermediate,43373.68097359387
+5.4,27,Bachelors,Intermediate,32106.456217770512
+3.6,33,Bachelors,Advanced,35307.40773455557
+1.6,23,Bachelors,Beginner,24660.56359993007
+0.6,18,Bachelors,Intermediate,25537.632310614288
+0.5,17,High School,Advanced,19085.611660881954
+0.9,28,Bachelors,Intermediate,25435.261435622677
+2.4,20,PhD,Intermediate,28621.716327293572
+3.8,37,High School,Intermediate,21001.90917605535
+3.2,17,PhD,Beginner,24730.413877050174
+1.0,34,Bachelors,Intermediate,29111.967361913794
+9.3,35,Masters,Intermediate,54685.62522688043
+4.0,28,Masters,Beginner,30981.427100486464
+2.4,24,Bachelors,Beginner,24105.478934239985
+2.8,29,Masters,Advanced,43680.89143557479
+1.6,26,Masters,Intermediate,26072.592023885238
+0.9,31,Bachelors,Intermediate,26159.612723369704
+1.3,26,Bachelors,Intermediate,27802.04762613841
+4.3,30,Bachelors,Advanced,42021.45664906787
+0.0,23,Masters,Intermediate,30664.566857373215
+0.4,25,Masters,Intermediate,29701.51923600532
+0.1,26,Masters,Advanced,33857.241037707914
+0.1,16,Bachelors,Advanced,29600.751191582138
+5.8,24,Masters,Beginner,30971.3937037547
+3.6,32,High School,Advanced,28890.626743861412
+1.9,27,Bachelors,Intermediate,24384.66518028118
+0.3,24,High School,Intermediate,15535.486775967755
+2.0,27,Bachelors,Beginner,16944.108625128094
+1.9,28,Bachelors,Beginner,19597.406646422412
+0.6,22,Bachelors,Advanced,23037.900395000193
+1.7,22,Bachelors,Intermediate,22260.1923518048
+1.5,27,Bachelors,Intermediate,14931.926665231073
+2.9,23,Bachelors,Advanced,34066.46853686469
+3.0,30,Bachelors,Advanced,35006.02737681112
+0.1,16,Bachelors,Beginner,11434.556844659048
+1.4,31,Bachelors,Intermediate,28296.228342162027
+2.9,30,High School,Beginner,24703.850688132792
+2.1,28,Bachelors,Advanced,24212.200678155128
+5.8,35,Bachelors,Intermediate,30786.37610716893
+3.2,36,Bachelors,Expert,40554.28825106351
+0.5,30,Bachelors,Beginner,13700.484494455677
+0.2,15,Bachelors,Beginner,19667.37420965874
+3.1,21,Masters,Intermediate,30710.86930613598
+0.1,21,Bachelors,Intermediate,19077.425793446946
+2.6,27,Bachelors,Intermediate,16580.688177966233
+8.5,36,High School,Advanced,48402.09015104613
+2.6,23,Bachelors,Intermediate,19603.708025732638
+1.5,27,Bachelors,Intermediate,24699.663151331642
+3.1,24,Bachelors,Advanced,35136.88468979096
+1.8,23,Bachelors,Intermediate,31003.292979193255
+2.4,20,Bachelors,Advanced,24455.89800440444
+8.5,28,Bachelors,Beginner,15782.439220895872
+1.5,19,Masters,Intermediate,28279.247723768472
+9.7,29,Masters,Beginner,48554.55590755427
+7.1,37,Masters,Beginner,42290.731764697186
+0.7,20,PhD,Advanced,37160.797076373135
+0.2,38,High School,Beginner,14821.819071839764
+0.3,27,High School,Intermediate,23835.61298318655
+0.1,26,High School,Intermediate,14392.269001477656
+0.3,21,Bachelors,Intermediate,23181.788846781095
+3.4,31,Masters,Advanced,46027.35079583313
+0.2,22,Bachelors,Beginner,21941.0495374944
+1.2,26,Masters,Intermediate,42118.300194555384
+5.6,43,High School,Expert,50292.079835893834
+0.1,24,Masters,Intermediate,22655.181871462504
+5.1,35,Bachelors,Advanced,41372.128439040025
+1.0,22,High School,Beginner,7282.6204755544095
+0.4,25,Bachelors,Intermediate,18326.43434455471
+3.6,37,Bachelors,Intermediate,28553.58780943448
+3.0,24,Bachelors,Advanced,30879.558010327037
+6.3,40,Bachelors,Expert,55661.77436016861
+4.0,32,Masters,Intermediate,32367.900338089
+4.9,27,Bachelors,Intermediate,36805.15333662236
+1.0,29,Bachelors,Beginner,19041.035324590986
+0.6,30,Bachelors,Intermediate,23153.498394306927
+4.2,32,Masters,Intermediate,35320.52641743541
+4.9,22,Bachelors,Expert,46075.95341929489
+14.0,35,Bachelors,Intermediate,55125.491323338174
+1.6,25,High School,Intermediate,17444.348921445497
+1.4,26,High School,Beginner,13989.417554623717
+4.5,32,Bachelors,Beginner,23601.369856116675
+1.3,27,High School,Intermediate,14870.645382633926
+8.0,26,Bachelors,Intermediate,33103.71070139251
+5.9,32,Masters,Advanced,48918.895632276704
+1.7,29,High School,Intermediate,27051.94590356364
+4.2,31,Bachelors,Intermediate,31912.806645009623
+4.2,34,Bachelors,Beginner,25927.94955683772
+0.3,29,PhD,Advanced,42054.48981083987
+7.0,34,Bachelors,Advanced,45313.14105800301
+2.1,26,Masters,Beginner,26336.324249644447
+5.3,21,Bachelors,Advanced,37983.89123533752
+1.2,28,High School,Intermediate,22926.81174699814
+6.8,32,Bachelors,Beginner,25886.20671194209
+1.5,27,PhD,Intermediate,20745.914208617854
+0.0,18,Bachelors,Intermediate,18928.60418906848
+7.1,26,Masters,Beginner,41097.7406804997
+0.3,30,Masters,Advanced,38531.07701120796
+1.2,26,Bachelors,Advanced,34326.987422955855
+9.0,37,Bachelors,Intermediate,47580.65360903109
+9.0,34,Bachelors,Intermediate,41243.28795480719
+2.6,27,Bachelors,Intermediate,27586.578537027977
+3.0,32,Masters,Intermediate,30991.740522828248
+1.8,24,Masters,Intermediate,27699.635719864753
+1.0,26,Bachelors,Beginner,21638.85574885571
+1.2,23,Bachelors,Intermediate,29019.42218584408
+3.3,26,Masters,Advanced,41002.768621595
+4.2,27,Bachelors,Intermediate,27549.053675742944
+4.7,30,Masters,Beginner,30146.639794282986
+4.7,27,Bachelors,Advanced,41506.033744645574
+0.3,31,Bachelors,Intermediate,15580.72591933229
+2.0,22,High School,Intermediate,10479.095234313809
+0.2,24,Bachelors,Beginner,14207.315752542083
+2.4,25,Bachelors,Intermediate,19696.437870429207
+1.7,33,Bachelors,Advanced,29959.299011763447
+6.6,32,High School,Intermediate,31301.098405912642
+1.3,31,Masters,Intermediate,27493.75795488493
+0.4,17,Masters,Advanced,37562.33767235373
+0.5,26,Bachelors,Advanced,29383.7238230116
+4.3,33,High School,Advanced,36602.37179805414
+2.9,28,High School,Intermediate,27771.03572021701
+0.3,30,Bachelors,Intermediate,16905.834411096155
+0.3,22,Bachelors,Expert,36695.55893710134
+3.6,35,Bachelors,Advanced,37371.1785673227
+0.2,36,Bachelors,Beginner,22232.40308620606
+5.2,28,Bachelors,Beginner,20240.713834799222
+3.7,26,Bachelors,Intermediate,20831.20616991968
+0.3,32,Bachelors,Advanced,32839.44829012515
+0.3,33,PhD,Intermediate,33202.047630487585
+12.9,35,High School,Intermediate,39409.742228212446
+1.4,24,Bachelors,Beginner,14531.684593626527
+1.4,24,Bachelors,Intermediate,29227.173922073845
+5.0,23,Bachelors,Advanced,32302.94053566336
+8.8,29,Masters,Intermediate,55493.36476627982
+12.8,32,Bachelors,Advanced,55496.89632676066
+4.2,25,PhD,Expert,62726.959628041914
+1.4,26,High School,Intermediate,19956.907621255075
+0.3,26,High School,Intermediate,22635.937155411717
+4.5,37,Masters,Intermediate,36159.42998942904
+2.5,22,Bachelors,Advanced,30936.03546963853
+1.7,31,Bachelors,Intermediate,25804.595876978605
+7.1,31,High School,Intermediate,27749.062721092636
+0.4,25,High School,Advanced,28229.121727100628
+2.0,30,Masters,Intermediate,28633.932167642073
+0.0,19,High School,Advanced,21132.000423299905
+1.9,28,Bachelors,Intermediate,20428.25312695744
+0.2,26,Bachelors,Beginner,4468.331706023448
+0.4,27,Bachelors,Intermediate,21244.861186999155
+0.4,26,High School,Advanced,36813.07710806458
+3.1,40,Bachelors,Intermediate,34123.02143949012
+4.1,25,High School,Advanced,32753.698101328027
+2.6,24,Masters,Advanced,37685.54585395866
+9.8,31,Bachelors,Intermediate,41912.32946406023
+1.4,23,Bachelors,Expert,37835.59557587605
+1.0,22,Masters,Beginner,15599.935923455776
+6.1,37,Bachelors,Intermediate,41171.60847334436
+0.8,32,Bachelors,Beginner,22776.90657720622
+9.9,32,Bachelors,Advanced,56340.928628539674
+0.0,20,Bachelors,Intermediate,22192.378694048635
+10.5,37,Bachelors,Beginner,35618.08328846995
+0.1,22,PhD,Intermediate,31174.306179834104
+6.7,34,Bachelors,Intermediate,39159.07066870689
+2.3,28,Bachelors,Beginner,19189.79644529488
+14.9,32,Masters,Advanced,75431.99113551549
+0.2,32,Bachelors,Advanced,29009.281476309934
+2.4,36,High School,Intermediate,32945.100757475935
+10.5,32,Bachelors,Expert,58904.4646217305
+2.2,25,PhD,Intermediate,26952.3736712378
+3.0,29,High School,Expert,38353.80420618258
+3.6,30,Bachelors,Intermediate,29454.43850928009
+1.8,30,Bachelors,Intermediate,26466.708321852042
+3.0,38,Bachelors,Beginner,24899.765989542502
+2.6,26,High School,Advanced,28583.988726825974
+6.9,27,Bachelors,Intermediate,42649.317193010414
+0.1,18,Masters,Beginner,11003.480107617423
+1.0,22,Bachelors,Beginner,13777.51487609877
+9.0,33,Bachelors,Intermediate,40083.726199254765
+6.6,40,Masters,Intermediate,36424.05594422916
+1.8,24,Masters,Advanced,35720.72797783965
+2.9,29,Bachelors,Advanced,42807.35082864009
+1.0,25,Bachelors,Beginner,18504.43244147981
+0.6,31,High School,Advanced,27478.504528593417
+1.9,39,PhD,Beginner,23507.176174137097
+1.3,23,Masters,Advanced,31718.19295980261
+2.6,25,Bachelors,Advanced,30874.018098380315
+0.2,30,Masters,Intermediate,25291.42451621883
+11.0,39,Bachelors,Advanced,63658.21897501884
+12.9,47,Bachelors,Intermediate,53988.455303625626

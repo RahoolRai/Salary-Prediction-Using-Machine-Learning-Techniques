@@ -1,114 +1,41 @@
-# 💼 Salary Prediction Using Traditional Machine Learning
+# Salary Prediction using Traditional ML Techniques
 
-## 🚀 Project Overview
-This project was completed as part of the *AI Internship (Task-04)* and demonstrates how to build an *end-to-end salary prediction system* using traditional machine learning techniques.  
-By combining a *scikit-learn preprocessing pipeline* with *ensemble models*, the system estimates an employee’s salary based on demographic and skill-related attributes.
+This is a runnable project (Task-04) prepared for the AI Internship. It uses a small synthetic dataset and a RandomForest pipeline as a demo so you can open the project in VS Code and run it immediately.
 
----
+## How to run locally (VS Code)
 
-## 🎯 Objective
-To design, train, and deploy a robust machine learning model that predicts salaries from structured data, while ensuring:
-- Data preprocessing is automated
-- The model is reproducible
-- The application is deployable for real-world use cases
+1. Create a virtual environment (recommended):
+   - `python -m venv .venv`
+   - Activate it: Windows: `.venv\Scripts\activate`  macOS/Linux: `source .venv/bin/activate`
 
----
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## 📂 Dataset Used
-(Demo dataset provided — replace with real HR dataset for production)
+3. Run the Streamlit app:
+   ```bash
+   streamlit run streamlit_app.py
+   ```
 
-*Features:*
-- Experience — Total years of work experience
-- Age — Candidate’s age
-- Education — Educational qualification
-- Skill_Level — Skill proficiency category
+4. Open the Streamlit URL printed in terminal (usually http://localhost:8501).
 
-*Target:*
-- Salary — Annual salary amount
+## Project structure
 
----
+```
+salary_prediction_project/
+├─ notebooks/
+│  └─ salary_prediction_task04.ipynb
+├─ streamlit_app.py
+├─ models/
+│  └─ best_salary_model.joblib  (pretrained demo pipeline)
+├─ data/
+│  └─ sample_data.csv
+├─ requirements.txt
+├─ README.md
+```
 
-## 🔍 What Was Delivered
-- ✅ Full preprocessing pipeline (handling numeric & categorical data)
-- ✅ Missing value imputation, scaling, and one-hot encoding
-- ✅ Model training using Random Forest Regressor
-- ✅ Model persistence with *joblib*
-- ✅ Evaluation using MAE, RMSE, and R²
-- ✅ Interactive *Streamlit app* for live salary predictions
-- ✅ Deployment guide for *Render*
-
----
-
-## 🧹 Data Preprocessing Steps
-- Median imputation for numerical columns
-- Most frequent imputation for categorical columns
-- Scaling numeric features (StandardScaler)
-- One-hot encoding categorical features
-- ColumnTransformer for clean integration
-
----
-
-## 🤖 Machine Learning Model
-*Algorithm:* Random Forest Regressor  
-*Reason:* Non-linear handling, feature interaction capture, robust performance with minimal tuning.
-
-*Evaluation Metrics:*
-| Metric | Value (Demo Data) |
-|--------|-------------------|
-| MAE    | ~2500             |
-| RMSE   | ~3200             |
-| R²     | ~0.92              |
-
----
-
-## 🔍 Key Insights
-- 📈 Experience and skill level are strong predictors of salary.
-- 🎓 Higher education levels typically yield higher salaries.
-- 👥 Age can correlate with salary, but experience is more important.
-
----
-
-## 🎯 Recommendations
-- ✅ Integrate into HR dashboards for instant candidate salary estimation.
-- ✅ Expand features to include industry, location, and company size.
-- ✅ Retrain quarterly to adapt to market salary trends.
-
----
-
-## 💻 Streamlit Web Application
-
-### 🚀 Features:
-- Simple and clean UI for entering candidate details
-- Real-time salary prediction
-- Fully integrated preprocessing + prediction pipeline
-
-### ▶ To Run the App Locally:
-bash
-pip install -r requirements.txt
-streamlit run streamlit_app.py
-
-
----
-
-## 🌐 Deployment on Render — Quick Steps
-1. Push code to GitHub (ensure requirements.txt and streamlit_app.py are in root).
-2. On Render: *New → Web Service* → Connect Repo.
-3. Set *Build Command*:
-bash
-pip install -r requirements.txt
-
-4. Set *Start Command*:
-bash
-streamlit run streamlit_app.py --server.port $PORT --server.address 0.0.0.0
-
-5. Deploy and access your public link.
-
----
-
-## 📌 Tech Stack
-- *Python* — Core programming
-- *pandas, numpy* — Data handling
-- *scikit-learn* — Preprocessing & modeling
-- *joblib* — Model saving/loading
-- *Streamlit* — Web interface
-- *Matplotlib, Seaborn* — Visualization
+Notes:
+- `models/best_salary_model.joblib` is a demo model trained on synthetic data so you can test the app immediately.
+- Replace `data/sample_data.csv` with the real Kaggle dataset if you want to re-train.
+- The notebook contains the full EDA + training pipeline steps shown in the internship task.
